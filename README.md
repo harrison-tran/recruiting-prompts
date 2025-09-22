@@ -28,6 +28,8 @@ When using the prompts below, ensure you replace all bracketed sections with the
 
 This prompt transforms the AI into an expert Hiring Manager, creating highly relevant, probing questions based on a candidate's specific resume achievements. It moves beyond generic questions to encourage **STAR method** (Situation, Task, Action, Result) answers.
 
+This is best used when you're new to a specific role and trying to learn on the go! Adding the job description to the prompt will elevate this even further.
+
 ```
 Act as the Hiring Manager for the [Department Name] team. You are an expert in [Field, e.g., 'Product Management'] and are looking to deeply understand a candidate's thought process and past achievements.
 
