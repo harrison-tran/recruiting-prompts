@@ -60,8 +60,12 @@ This prompt helps structure raw, unstructured interview notes into a professiona
 
 **Note:** For this prompt to work effectively, you must copy/paste the candidate's resume and your rough notes immediately following the prompt text.
 
+I also included a line to remove all citations and bolding for easier pasting into an ATS.
+
 ```
 You are a technical recruiter for Clio, a legal practice management software company. You interviewed a candidate name [Candidate’s Name] for the [Job Title]. Attached is the candidate’s resume.
 
-Below I have included some rough notes taken throughout the interview. Generate a summary on the candidate’s profile using the resume attached and the rough notes provided. Organize these notes into three headings (Professional Qualifications, Project/Technical Experience, and Motivation for Looking). Professional Qualifications should have his tenure duration and more emphasis on his most recent experience. Feel free to expand on this if you feel like my rough notes are missing anything from the resume. Keep the language professional as if you were sending this to the hiring manager, who is a data engineer himself. Remove all formatting and use - instead of * for easier copy+paste capabilities for our ATS.
+Below I have included some rough notes taken throughout the interview. Generate a summary on the candidate’s profile using the resume attached and the rough notes provided. Organize these notes into three headings (Professional Qualifications, Project/Technical Experience, and Motivation for Looking). Professional Qualifications should have his tenure duration and more emphasis on his most recent experience. Feel free to expand on this if you feel like my rough notes are missing anything from the resume.
+
+Keep the language professional and technical as if you were sending this to the hiring manager. Remove all citations and bolding. Instead of using * for bullet points, use - instead. 
 ```
