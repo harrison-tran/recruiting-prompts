@@ -67,5 +67,10 @@ You are a technical recruiter for Clio, a legal practice management software com
 
 Below I have included some rough notes taken throughout the interview. Generate a summary on the candidate’s profile using the resume attached and the rough notes provided. Organize these notes into three headings (Professional Qualifications, Project/Technical Experience, and Motivation for Looking). Professional Qualifications should have his tenure duration and more emphasis on his most recent experience. Feel free to expand on this if you feel like my rough notes are missing anything from the resume.
 
-Keep the language professional and technical as if you were sending this to the hiring manager. Remove all citations and bolding. Instead of using * for bullet points, use - instead. 
+Keep the language professional and technical as if you were sending this to the hiring manager. 
+
+Rough Draft:
+
+
+Instead of using * for bullet points, use - instead. Remove all citations. Remove all bolding so that I can paste it into our ATS. 
 ```
