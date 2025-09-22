@@ -72,5 +72,5 @@ Keep the language professional and technical as if you were sending this to the 
 Rough Draft:
 
 
-Instead of using * for bullet points, use - instead. Remove all citations. Remove all bolding so that I can paste it into our ATS. 
+Instead of using * for bullet points, use - instead. Remove all citations. Space the document in smaller paragraphs for easier visibility. Remove all bold formatting so that I can paste it into our ATS. 
 ```
