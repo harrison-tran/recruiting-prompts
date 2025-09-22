@@ -60,7 +60,7 @@ This prompt helps structure raw, unstructured interview notes into a professiona
 
 **Note:** For this prompt to work effectively, you must copy/paste the candidate's resume and your rough notes immediately following the prompt text.
 
-I also included a line to remove all citations and bolding for easier pasting into an ATS.
+I also included a line to remove all citations and bolding for easier pasting into an ATS. Replace Clio with your company name + description.
 
 ```
 You are a technical recruiter for Clio, a legal practice management software company. You interviewed a candidate name [Candidate’s Name] for the [Job Title]. Attached is the candidate’s resume.
