@@ -65,12 +65,22 @@ I also included a line to remove all citations and bolding for easier pasting in
 ```
 You are a technical recruiter for Clio, a legal practice management software company. You interviewed a candidate name [Candidate’s Name] for the [Job Title]. Attached is the candidate’s resume.
 
-Below I have included some rough notes taken throughout the interview. Generate a summary on the candidate’s profile using the resume attached and the rough notes provided. Organize these notes into three headings (Professional Qualifications, Project/Technical Experience, and Motivation for Looking). Professional Qualifications should have his tenure duration and more emphasis on his most recent experience. Feel free to expand on this if you feel like my rough notes are missing anything from the resume.
+At the end of the prompt, I have included some rough notes taken throughout the interview. Generate a summary on the candidate’s profile using the resume attached and the rough notes provided. 
 
-Keep the language professional and technical as if you were sending this to the hiring manager. 
+Follow these specific instructions
 
-Rough Draft:
+- Format: Maintain a point-form structure using bullet points but keep the sentences longer. Instead of using * for bullet points, use - instead. Do not use any citations or bold text.
+
+- Headings: Organize the points under 3 headings (Professional Qualifications and Career History, Specific Project/Technical Experience, and Motivation for Looking). Professional Qualifications should have his tenure duration and more emphasis on his most recent experience. Feel free to expand on this if you feel like my rough notes are missing anything from the resume.
+
+- Elaboration and Detail: Instead of short phrases, expand each bullet point into one or two comprehensive sentences. Combine related short notes into a single, more descriptive point. Where possible, frame the candidate's experience using the STAR method (Situation, Task, Action, Result) to add depth and context.
+
+- Tone: Rephrase the notes to be objective and evidence-based. Replace subjective feelings (e.g., 'good vibe,' 'seems nervous') with factual observations (e.g., 'Established strong rapport,' 'Spoke quickly initially but gained confidence when discussing past projects').
+
+- Clarity: Expand any shorthand or abbreviations into their full form (e.g., 'proj mngmt' becomes 'project management'). Correct all spelling and grammatical errors.
 
 
-Instead of using * for bullet points, use - instead. Remove all citations. Space the document in smaller paragraphs for easier visibility. Remove all bold formatting so that I can paste it into our ATS. 
+Rough Notes to process:
+
+
 ```
