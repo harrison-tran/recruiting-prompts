@@ -11,7 +11,7 @@ The goal is to move beyond generic, low-quality outputs by providing structured 
 - [Syntax Guide](#syntax-guide)
 - [Summarizing Candidate Interviews (Internal Notes)](#summarizing-candidate-interviews-internal-notes)
 - [Universal Boolean Search Generation](#universal-boolean-search-generation)
-- [Generating Interview Questions (Behavioral & Situational)](#generating-interview-questions-behavioral-&-situational)
+- [Generating Interview Questions (Behavioral & Situational)](#generating-interview-questions-behavioral--situational)
 
 -----
 
