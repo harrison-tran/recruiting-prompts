@@ -50,6 +50,53 @@ Rough Notes to process:
 
 ```
 
+-----
+
+## Universal Boolean Search Generation
+
+This is my universal prompt to generate LinkedIn boolean searches. Feel free to remove and adjust the role requirements to your liking.
+
+```
+
+Act as an expert technical recruiter with deep knowledge of boolean search logic for LinkedIn.
+
+Generate three LinkedIn boolean search strings (one broad, one specific, and one targeting specific companies) based on the detailed role requirements I provide below.
+
+INSTRUCTIONS:
+Analyze the Inputs: Carefully review all the information provided in the sections below.
+
+Use Correct Syntax:
+- Use parentheses () to group OR statements.
+- Use quotation marks "" for exact, multi-word phrases (e.g., "Product Manager").
+- Use AND, OR, and NOT correctly.
+
+Generate Three Strings:
+- Broad Search: A wider search focusing on core titles and a few key skills to capture a larger talent pool.
+- Specific Search: A more targeted search combining seniority, specific titles, all "must-have" skills, and exclusion keywords.
+- Competitor Search: A targeted search focused on finding candidates with the right title at the specified competitor companies.
+
+--- ROLE REQUIREMENTS ---
+
+1. Core Role Details:
+- Primary Job Title: [e.g., "Product Manager"]
+- Alternative Job Titles / Synonyms: [e.g., "Product Owner", "Program Manager", "Product Lead"]
+- Seniority Levels to Include: [e.g., Senior, Sr., Lead, Staff, Principal]
+
+2. Must-Have Skills & Keywords:
+- Technical Skills / Tools: [e.g., SQL, Jira, Mixpanel, "A/B Testing", Python]
+- Industry / Domain Keywords: [e.g., SaaS, Fintech, B2B, "Agile Methodology"]
+
+3. Exclusion Criteria (Keywords to AVOID):
+- Titles to Exclude: [e.g., Assistant, Associate, Junior, Intern, Trainee]
+- Industries / Domains to Exclude: [e.g., Healthcare, Hardware]
+
+4. Company & Location Targeting:
+- Target Competitor Companies: [e.g., Google, Meta, Shopify, Slack]
+- Companies to Exclude (including your own): [e.g., "My Company Inc."]
+- Location: [e.g., Toronto, Canada]
+
+
+```
 
 -----
 
