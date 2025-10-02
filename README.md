@@ -93,8 +93,6 @@ Generate Three Strings:
 4. Company & Location Targeting:
 - Target Competitor Companies: [e.g., Google, Meta, Shopify, Slack]
 - Companies to Exclude (including your own): [e.g., "My Company Inc."]
-- Location: [e.g., Toronto, Canada]
-
 
 ```
 
