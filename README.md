@@ -9,7 +9,7 @@ The goal is to move beyond generic, low-quality outputs by providing structured 
 ## Table of Contents
 
 - [Syntax Guide](https://www.google.com/search?q=%23-syntax-guide)
-- [Summarizing Candidate Interviews (Internal Notes)](https://github.com/harrison-tran/recruiting-prompts?tab=readme-ov-file#summarizing-candidate-interviews-internal-notes)
+- [Summarizing Candidate Interviews (Internal Notes)](https://www.google.com/search?q=%23-summarizing-candidate-interviews-internal-notes)
 - [Universal Boolean Search Generation](https://github.com/harrison-tran/recruiting-prompts?tab=readme-ov-file#universal-boolean-search-generation)
 - [Generating Interview Questions (Behavioral & Situational)](https://github.com/harrison-tran/recruiting-prompts?tab=readme-ov-file#generating-interview-questions-behavioral--situational)
 
