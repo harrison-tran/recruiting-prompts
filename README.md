@@ -9,8 +9,9 @@ The goal is to move beyond generic, low-quality outputs by providing structured 
 ## Table of Contents
 
 - [Syntax Guide](https://www.google.com/search?q=%23-syntax-guide)
-- [Summarizing Candidate Interviews (Internal Notes)](https://www.google.com/search?q=%233-summarizing-candidate-interviews-internal-notes)
-- [Generating Interview Questions (Behavioral & Situational)](https://www.google.com/search?q=%232-generating-interview-questions-behavioral--situational)
+- [Summarizing Candidate Interviews (Internal Notes)](https://github.com/harrison-tran/recruiting-prompts?tab=readme-ov-file#summarizing-candidate-interviews-internal-notes)
+- [Universal Boolean Search Generation](https://github.com/harrison-tran/recruiting-prompts?tab=readme-ov-file#universal-boolean-search-generation)
+- [Generating Interview Questions (Behavioral & Situational)](https://github.com/harrison-tran/recruiting-prompts?tab=readme-ov-file#generating-interview-questions-behavioral--situational)
 
 -----
 
@@ -57,7 +58,6 @@ Rough Notes to process:
 This is my universal prompt to generate LinkedIn boolean searches. Feel free to remove and adjust the role requirements to your liking.
 
 ```
-
 Act as an expert technical recruiter with deep knowledge of boolean search logic for LinkedIn.
 
 Generate three LinkedIn boolean search strings (one broad, one specific, and one targeting specific companies) based on the detailed role requirements I provide below.
